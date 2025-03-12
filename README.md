@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eunice71
-- 👀 I’m interested in ux designs and frontend coding 
-- 🌱 I’m currently an undergraduate
+- 👀 I’m interested in data analysis, data science, machine learning, python  
+- 🌱 I’m currently a data analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
